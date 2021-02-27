@@ -9,3 +9,6 @@ it the appropriate data as per the problem. (I am assumming you will know how to
 ## running the api.
 assumption: you know how to install the required python package to run a python flask application
 
+# server
+ * Running on http://127.0.0.1:5000/
+
